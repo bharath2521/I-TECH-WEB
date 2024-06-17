@@ -45,13 +45,19 @@ nav ul li a:hover {
 }
 
 /*hero*/
-
+/* .bk{
+  
+  position: relative;
+  bottom: 200px;
+  left: 50px
+} */
 .hero {
-  background-image: url("hero-background1.jpg");
+  /* background-image: url("hero-background1.jpg"); */
   background-size: cover;
   background-position: center;
-  height: 100vh;
+  height: 1vh;
   display: flex;
+  background-color: #000000;
 
 
   text-align: left;
@@ -63,6 +69,8 @@ nav ul li a:hover {
   padding: 20px;
   margin-top :50px;
   margin-left: 4%;
+  position: relative;
+  bottom: 650px;
   
 }
 

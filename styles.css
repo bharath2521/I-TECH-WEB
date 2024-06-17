@@ -14,7 +14,9 @@ header {
   align-items: center;
   justify-content: space-between;
 }
-
+.about1{
+  background-color: #000000;
+}
 .logo img {
   height: 60px;
   margin-left:50px;
